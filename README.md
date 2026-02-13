@@ -1,2 +1,2 @@
 # kirn-320-repo
-Repository for CS320
+Repository for git setup, Colin Kirn
